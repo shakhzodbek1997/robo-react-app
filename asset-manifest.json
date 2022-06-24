@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robo-react-app/static/css/main.ef0a57e8.css",
+    "main.js": "/robo-react-app/static/js/main.e9c793a2.js",
+    "static/js/787.0e42563b.chunk.js": "/robo-react-app/static/js/787.0e42563b.chunk.js",
+    "static/media/SEGA.woff": "/robo-react-app/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robo-react-app/index.html",
+    "main.ef0a57e8.css.map": "/robo-react-app/static/css/main.ef0a57e8.css.map",
+    "main.e9c793a2.js.map": "/robo-react-app/static/js/main.e9c793a2.js.map",
+    "787.0e42563b.chunk.js.map": "/robo-react-app/static/js/787.0e42563b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef0a57e8.css",
+    "static/js/main.e9c793a2.js"
+  ]
+}
